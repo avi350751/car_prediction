@@ -1,0 +1,13 @@
+Flask
+certifi
+cycler
+kiwisolver
+scikit-learn
+pandas
+numpy
+matplotlib
+pyparsing
+python-dateutil
+pytz
+six
+wincertstore
